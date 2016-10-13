@@ -1,0 +1,57 @@
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\csc.exe
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\csc.exe.config
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\csc.rsp
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\csi.exe
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\csi.rsp
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\System.AppContext.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\vbc.exe
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\vbc.exe.config
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\vbc.rsp
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\AdminLTE Template.dll.config
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\AdminLTE Template.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\AdminLTE Template.pdb
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\Antlr3.Runtime.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\Newtonsoft.Json.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\RouteJs.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\RouteJs.Mvc5.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Helpers.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Mvc.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Optimization.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Razor.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Webpages.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Webpages.Razor.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\WebActivatorEx.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\WebGrease.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\Antlr3.Runtime.pdb
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\Newtonsoft.Json.xml
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Optimization.xml
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Razor.xml
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Webpages.xml
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Webpages.Razor.xml
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Helpers.xml
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.Mvc.xml
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\obj\Debug\AdminLTE Template.dll
+C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\obj\Debug\AdminLTE Template.pdb
