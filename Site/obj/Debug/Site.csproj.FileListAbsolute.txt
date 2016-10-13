@@ -55,3 +55,60 @@ C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\bin\System.Web.M
 C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
 C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\obj\Debug\AdminLTE Template.dll
 C:\Users\ESSILVA\Desktop\Apostila Estudos\Projetos\Manager\Site\obj\Debug\AdminLTE Template.pdb
+C:\mredss\Site\bin\roslyn\csc.exe
+C:\mredss\Site\bin\roslyn\csc.exe.config
+C:\mredss\Site\bin\roslyn\csc.rsp
+C:\mredss\Site\bin\roslyn\csi.exe
+C:\mredss\Site\bin\roslyn\csi.rsp
+C:\mredss\Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\mredss\Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\mredss\Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\mredss\Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\mredss\Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\mredss\Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\mredss\Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\mredss\Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\mredss\Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\mredss\Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\mredss\Site\bin\roslyn\System.AppContext.dll
+C:\mredss\Site\bin\roslyn\System.Collections.Immutable.dll
+C:\mredss\Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\mredss\Site\bin\roslyn\System.IO.FileSystem.dll
+C:\mredss\Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\mredss\Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\mredss\Site\bin\roslyn\vbc.exe
+C:\mredss\Site\bin\roslyn\vbc.exe.config
+C:\mredss\Site\bin\roslyn\vbc.rsp
+C:\mredss\Site\bin\roslyn\VBCSCompiler.exe
+C:\mredss\Site\bin\roslyn\VBCSCompiler.exe.config
+C:\mredss\Site\bin\AdminLTE Template.dll.config
+C:\mredss\Site\bin\AdminLTE Template.dll
+C:\mredss\Site\bin\AdminLTE Template.pdb
+C:\mredss\Site\bin\Antlr3.Runtime.dll
+C:\mredss\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\mredss\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\mredss\Site\bin\Newtonsoft.Json.dll
+C:\mredss\Site\bin\RouteJs.dll
+C:\mredss\Site\bin\RouteJs.Mvc5.dll
+C:\mredss\Site\bin\System.Web.Helpers.dll
+C:\mredss\Site\bin\System.Web.Mvc.dll
+C:\mredss\Site\bin\System.Web.Optimization.dll
+C:\mredss\Site\bin\System.Web.Razor.dll
+C:\mredss\Site\bin\System.Web.Webpages.Deployment.dll
+C:\mredss\Site\bin\System.Web.Webpages.dll
+C:\mredss\Site\bin\System.Web.Webpages.Razor.dll
+C:\mredss\Site\bin\WebActivatorEx.dll
+C:\mredss\Site\bin\WebGrease.dll
+C:\mredss\Site\bin\Antlr3.Runtime.pdb
+C:\mredss\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\mredss\Site\bin\Newtonsoft.Json.xml
+C:\mredss\Site\bin\System.Web.Optimization.xml
+C:\mredss\Site\bin\System.Web.Razor.xml
+C:\mredss\Site\bin\System.Web.Webpages.xml
+C:\mredss\Site\bin\System.Web.Webpages.Deployment.xml
+C:\mredss\Site\bin\System.Web.Webpages.Razor.xml
+C:\mredss\Site\bin\System.Web.Helpers.xml
+C:\mredss\Site\bin\System.Web.Mvc.xml
+C:\mredss\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\mredss\Site\obj\Debug\AdminLTE Template.dll
+C:\mredss\Site\obj\Debug\AdminLTE Template.pdb
